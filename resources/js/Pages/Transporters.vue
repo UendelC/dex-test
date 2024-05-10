@@ -18,7 +18,7 @@ defineProps(['transporters']);
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">Transportadores</h2>
         </template>
 
-        <div class="mt-12 flex flex-col items-center justify-center mx-48">
+        <div class="mt-12 flex flex-col items-center justify-center">
             <Link
                 class="bg-blue-600 rounded px-3 py-2 text-white self-end cursor-pointer hover:bg-blue-800"
                 href="/transporters/create"
